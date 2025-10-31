@@ -1,0 +1,21 @@
+title: "A la última en recerca científica i social"
+author: Gal·la Daviu Vidal
+bg_color: dark 
+description: My personal GitHub Page
+
+email: daviuvidal@gmail.com
+baseurl: "/"
+url: "https://galla03.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
